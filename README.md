@@ -17,7 +17,7 @@
 Pictured: Torres del Paine, Chile
 
 ## Course Description
-**UP221: Introduction to GIS and Spatial Data Science**
+_UP221:_ _Introduction to GIS and Spatial Data Science_
  
 This course will allow us to naviagate the process of turning infinite amount of digital information into meaningful stories. The course will teach us how to analyze, visualize, and describe urban spatial data to tackle current problems in the sphere of planning and policy.
 
